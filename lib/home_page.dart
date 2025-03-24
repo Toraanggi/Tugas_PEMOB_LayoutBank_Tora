@@ -149,7 +149,7 @@ class HomePage extends StatelessWidget {
                           style: TextStyle(fontSize: 22, color: Colors.black, fontWeight: FontWeight.bold),
                         ),
                         SizedBox(width: 10),
-                        Icon(Icons.phone, color: Colors.blue, size: 30),
+                        Icon(Icons.phone, color: mainBlue, size: 30),
                       ],
                     ),
                   ],
